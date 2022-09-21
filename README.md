@@ -1,2 +1,2 @@
 # crud-nestjs
-Criação de um crud em nest js, utilizando prisma como orm
+Criação de uma rest api utilizando prisma
